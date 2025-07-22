@@ -36,7 +36,7 @@ Welcome to the **Employee Salary Prediction** project! This Streamlit app uses G
    - Visit the URL shown (e.g., `http://localhost:8501`)
 
 ## 🌐 Deployed Version
-Check out the live app at: 
+Check out the live app at: [Employee Salary Prediction](https://employeesalarypredictorapp-qbjaz5azctfrm4rztdwr8r.streamlit.app)
 ## 🤝 Contribute
 Feel free to fork this repo, make improvements, and submit a pull request. Suggestions are welcome!
 
