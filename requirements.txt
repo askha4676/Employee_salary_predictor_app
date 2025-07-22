@@ -1,9 +1,7 @@
 pandas
 numpy
 scikit-learn
-lightgbm
 joblib
 matplotlib
-seaborn
 streamlit
 jupyterlab
