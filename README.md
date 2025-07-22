@@ -1,7 +1,7 @@
 
 # Data-Driven Salary Prediction Using Python & ML Algorithms
 
-Welcome to the **Employee Salary Prediction** project! This Streamlit app uses Gradient Boosting and Ensemble Algorithms to predict employee salaries based on factors like education, experience, location, job title, age, and gender. Built with love by [Asif Khan](https://www.linkedin.com/in/mohd-asif-khan-448b1621a)!
+Welcome to the **Employee Salary Prediction** project! This Streamlit app uses Gradient Boosting and Ensemble Algorithms to predict employee salaries based on factors like education, experience, location, job title, age, and gender. Built with love by [Asif Khan](https://www.linkedin.com/in/mohd-asif-khan-448b1621a)
 
 ## ✨ Features
 - 🚀 Accurately predict your salary with a single click.
@@ -36,8 +36,7 @@ Welcome to the **Employee Salary Prediction** project! This Streamlit app uses G
    - Visit the URL shown (e.g., `http://localhost:8501`)
 
 ## 🌐 Deployed Version
-Check out the live app at: [Employee Salary Prediction](https://ibminternshipproject-production.up.railway.app/)
-
+Check out the live app at: 
 ## 🤝 Contribute
 Feel free to fork this repo, make improvements, and submit a pull request. Suggestions are welcome!
 
